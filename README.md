@@ -17,8 +17,6 @@ Tudo feito apenas com **Pandas**.
 ## ⚙️ O que foi feito neste projeto
 
 ✔ **1. Leitura da base de dados**  
-Carregamos o arquivo `vendas_loja.csv` utilizando `;` como separador.
-
 ✔ **2. Criação das colunas principais**  
 ✔ **3. Cálculo de indicadores gerais**  
 ✔ **4. Ranking de produtos e categorias**  
