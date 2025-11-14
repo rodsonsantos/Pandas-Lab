@@ -30,7 +30,5 @@ Tudo feito apenas com **Pandas**.
 ## 📁 Base utilizada em todos os 5 projetos  
 📊 **vendas_loja.csv**
 
-A mesma planilha será usada em toda a série, sempre evoluindo a análise.
-
 ---
 
