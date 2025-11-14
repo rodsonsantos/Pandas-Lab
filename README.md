@@ -25,7 +25,7 @@ Carregamos o arquivo `vendas_loja.csv` utilizando `;` como separador.
 ✔ **5. Conversão da data e extração do mês**  
 ✔ **6. Lucro por mês**  
 ✔ **7. Exportação do arquivo final**  
-✔ **8. Um CSV chamado **01_projeto.csv** é salvo com todas as colunas e informações tratadas.
+✔ **8. Um CSV chamado **01_projeto.csv** é salvo com todas as colunas e informações tratadas.**
 
 ---
 
