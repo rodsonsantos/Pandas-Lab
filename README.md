@@ -23,25 +23,26 @@ Tudo feito apenas com **Pandas**.
 ✔ **5. Conversão da data e extração do mês**  
 ✔ **6. Lucro por mês**  
 ✔ **7. Exportação do arquivo final**  
-✔ **8. Um CSV chamado **01_projeto.csv** é salvo com todas as colunas e informações tratadas.**
+✔ **8. Um CSV chamado _01_projeto.csv_ é salvo com todas as colunas e informações tratadas.**
 
 ---
 
-# 🧩 Projeto 02 — Análises com Datas (Datetime)
-
+## 🧩 Projeto 02 — Análises com Datas (Datetime)
 Neste segundo projeto, aprofundei o uso do `datetime` no Pandas para entender o comportamento das vendas ao longo do tempo.
 
-## ⚙️ O que foi feito
+---
 
-✔ Conversão da coluna de data (`data_venda`)  
-✔ Criação de colunas de tempo: dia do mês, dia da semana, número do dia, trimestre e mês nome e numérico  
-✔ Análises semanais: quantidade, faturamento e lucro 
-✔ Identificação do melhor e pior dia
-✔ Análises mensais: quantidade, faturamento e lucro  
-✔ Identificação do melhor e pior mês  
-✔ Análises trimestrais: quantidade, faturamento e lucro
-✔ Exportação do arquivo final  
-✔ Arquivo salvo como **02_projeto.csv**
+## ⚙️ O que foi feito neste projeto
+
+✔ **1. Conversão da coluna de data (`data_venda`)**  
+✔ **2. Criação de colunas de tempo:** dia do mês, dia da semana, número do dia, trimestre, mês nome e mês numérico  
+✔ **3. Análises semanais:** quantidade, faturamento e lucro  
+✔ **4. Identificação do melhor e do pior dia da semana**  
+✔ **5. Análises mensais:** quantidade, faturamento e lucro  
+✔ **6. Identificação do melhor e pior mês**  
+✔ **7. Análises trimestrais:** quantidade, faturamento e lucro  
+✔ **8. Exportação do arquivo final**  
+✔ **9. Arquivo salvo como _02_projeto.csv_**
 
 ---
 
