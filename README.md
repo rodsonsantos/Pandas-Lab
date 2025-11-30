@@ -44,6 +44,18 @@ Neste segundo projeto, aprofundei o uso do `datetime` no Pandas para entender o 
 ✔ **8. Exportação do arquivo final**  
 ✔ **9. Arquivo salvo como _02_projeto.csv_**
 
+## 🧩 Projeto 03 — Indicadores, Ticket Médio e Margem de Lucro (Pandas)
+Este projeto aprofunda as análises comerciais, explorando ticket médio, margem de lucro e rankings por produto, categoria, dia e mês.
+
+---
+
+⚙️ O que foi feito neste projeto
+
+✔ **1. Leitura da base**
+✔ **2. Cálculo do Ticket Médio geral**
+✔ **3. Ticket Médio por mês, dia, produto e categoria**
+✔ **4. Margem de Lucro por mês, dia, produto e categoria**
+
 ---
 
 ## 📁 Base utilizada em todos os 5 projetos  
