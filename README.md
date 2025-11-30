@@ -49,7 +49,7 @@ Este projeto aprofunda as análises comerciais, explorando ticket médio, margem
 
 ---
 
-⚙️ O que foi feito neste projeto
+## ⚙️ O que foi feito neste projeto
 
 ✔ **1. Leitura da base**  
 ✔ **2. Cálculo do Ticket Médio geral**  
