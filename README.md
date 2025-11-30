@@ -51,9 +51,9 @@ Este projeto aprofunda as análises comerciais, explorando ticket médio, margem
 
 ⚙️ O que foi feito neste projeto
 
-✔ **1. Leitura da base**
-✔ **2. Cálculo do Ticket Médio geral**
-✔ **3. Ticket Médio por mês, dia, produto e categoria**
+✔ **1. Leitura da base** 
+✔ **2. Cálculo do Ticket Médio geral** 
+✔ **3. Ticket Médio por mês, dia, produto e categoria** 
 ✔ **4. Margem de Lucro por mês, dia, produto e categoria**
 
 ---
