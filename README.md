@@ -64,7 +64,7 @@ O objetivo foi identificar quais itens realmente impulsionam o lucro da loja e q
 
 ## ⚙️ O que foi feito neste projeto
 
-✔ **1. Ranking dos produtos mais lucrativos pela porcentagem**
+✔ **1. Ranking dos produtos mais lucrativos pela porcentagem**  
 ✔ **2. Ranking das categorias mais lucrativas pela porcentagem**  
 
 ---
