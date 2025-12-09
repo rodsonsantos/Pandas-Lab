@@ -44,7 +44,7 @@ Neste segundo projeto, aprofundei o uso do `datetime` no Pandas para entender o 
 ✔ **8. Exportação do arquivo final**  
 ✔ **9. Arquivo salvo como _02_projeto.csv_**
 
-## 🧩 Projeto 03 — Indicadores, Ticket Médio e Margem de Lucro (Pandas)
+## 🧩 Projeto 03 — Indicadores, Ticket Médio e Margem de Lucro
 Este projeto aprofunda as análises comerciais, explorando ticket médio, margem de lucro e rankings por produto, categoria, dia e mês.
 
 ---
@@ -55,6 +55,17 @@ Este projeto aprofunda as análises comerciais, explorando ticket médio, margem
 ✔ **2. Cálculo do Ticket Médio geral**  
 ✔ **3. Ticket Médio por mês, dia, produto e categoria**  
 ✔ **4. Margem de Lucro por mês, dia, produto e categoria**
+
+## 🧩 Projeto 04 — Porcentagem do Lucro por Produto e Categoria
+Neste quarto projeto, aprofundei a análise financeira da base calculando a participação percentual do lucro por produto e por categoria.
+O objetivo foi identificar quais itens realmente impulsionam o lucro da loja e quais têm baixa representatividade, uma visão fundamental para decisões comerciais.
+
+---
+
+## ⚙️ O que foi feito neste projeto
+
+✔ **1. Ranking dos produtos mais lucrativos pela porcentagem**
+✔ **2. Ranking das categorias mais lucrativas pela porcentagem**  
 
 ---
 
