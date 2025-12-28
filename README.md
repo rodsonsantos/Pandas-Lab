@@ -1,6 +1,6 @@
 # 📊 Minha Caixinha de Análises com Pandas! 🐍  
 
-Bem-vindo(a) ao repositório onde começo uma série de **5 projetos evolutivos** usando a mesma base de dados: **vendas_loja.csv**.  
+Bem-vindo(a) ao repositório onde começo uma série de **4 projetos evolutivos** usando a mesma base de dados: **vendas_loja.csv**.  
 Aqui você acompanha minha jornada aprendendo e aplicando análises reais com **Python + Pandas**, de forma simples, clara e objetiva.
 
 A ideia é mostrar como uma análise cresce: começa pequena, vira insights, métricas, dashboards e até automações.
