@@ -1,4 +1,4 @@
-id_venda;produto;categoria;preco;custo;quantidade;data_venda;ValorDaVenda;ValorDoCusto;ValorDoLucro;mes;dia_mes;dia;dia_semana;trimestre;mes_num
+﻿id_venda;produto;categoria;preco;custo;quantidade;data_venda;ValorDaVenda;ValorDoCusto;ValorDoLucro;mes;dia_mes;dia;dia_semana;trimestre;mes_num
 1;Meia;Roupas;12.98;6.04;2;2025-01-01;25.96;12.08;13.88;Janeiro;1;Quarta-feira;2;1;1
 2;Boné;Acessórios;21.45;12.14;2;2025-01-02;42.9;24.28;18.62;Janeiro;2;Quinta-feira;3;1;1
 3;Bermuda;Roupas;101.18;62.18;4;2025-01-03;404.72;248.72;156.0;Janeiro;3;Sexta-feira;4;1;1
