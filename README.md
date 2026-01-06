@@ -1,76 +1,116 @@
-# 📊 Minha Caixinha de Análises com Pandas! 🐍  
+# 📊 Análises de Dados com Python & Pandas
 
-Bem-vindo(a) ao repositório onde começo uma série de **4 projetos evolutivos** usando a mesma base de dados: **vendas_loja.csv**.  
-Aqui você acompanha minha jornada aprendendo e aplicando análises reais com **Python + Pandas**, de forma simples, clara e objetiva.
+Repositório criado para demonstrar, de forma prática e progressiva, minha evolução em **análise de dados com Python e Pandas**, aplicando conceitos reais de tratamento, exploração e geração de indicadores a partir de dados estruturados.
 
-A ideia é mostrar como uma análise cresce: começa pequena, vira insights, métricas, dashboards e até automações.
-
----
-
-## 🧩 Projeto 01 — Explorando a Planilha “Vendas Loja”
-Este primeiro projeto é totalmente focado no essencial: entender a base, criar colunas importantes e gerar indicadores que revelam a saúde da loja.
-
-Tudo feito apenas com **Pandas**.
+O projeto foi desenvolvido com foco em **boas práticas, clareza de código e leitura de dados**, simulando cenários comuns encontrados em ambientes corporativos.
 
 ---
 
-## ⚙️ O que foi feito neste projeto
+## 🎯 Objetivo do Projeto
 
-✔ **1. Leitura da base de dados**  
-✔ **2. Criação das colunas principais**  
-✔ **3. Cálculo de indicadores gerais**  
-✔ **4. Ranking de produtos e categorias**  
-✔ **5. Conversão da data e extração do mês**  
-✔ **6. Lucro por mês**  
-✔ **7. Exportação do arquivo final**  
-✔ **8. Um CSV chamado _01_projeto.csv_ é salvo com todas as colunas e informações tratadas.**
+- Demonstrar capacidade de **entender, tratar e analisar dados**
+- Aplicar **Pandas de forma prática**
+- Evoluir análises simples para **indicadores mais estratégicos**
+- Preparar bases tratadas para uso em outras camadas como BI, bancos de dados relacionais ou automações
+
+Este repositório faz parte do meu portfólio de aprendizado contínuo em dados.
 
 ---
 
-## 🧩 Projeto 02 — Análises com Datas (Datetime)
-Neste segundo projeto, aprofundei o uso do `datetime` no Pandas para entender o comportamento das vendas ao longo do tempo.
+## 🛠️ Tecnologias Utilizadas
+
+- **Python 3**
+- **Pandas**
+- **VS Code**
+- **CSV como fonte de dados estruturados**
 
 ---
 
-## ⚙️ O que foi feito neste projeto
+## 🧩 Estrutura dos Projetos
 
-✔ **1. Conversão da coluna de data (`data_venda`)**  
-✔ **2. Criação de colunas de tempo:** dia do mês, dia da semana, número do dia, trimestre, mês nome e mês numérico  
-✔ **3. Análises semanais:** quantidade, faturamento e lucro  
-✔ **4. Identificação do melhor e do pior dia da semana**  
-✔ **5. Análises mensais:** quantidade, faturamento e lucro  
-✔ **6. Identificação do melhor e pior mês**  
-✔ **7. Análises trimestrais:** quantidade, faturamento e lucro  
-✔ **8. Exportação do arquivo final**  
-✔ **9. Arquivo salvo como _02_projeto.csv_**
-
-## 🧩 Projeto 03 — Indicadores, Ticket Médio e Margem de Lucro
-Este projeto aprofunda as análises comerciais, explorando ticket médio, margem de lucro e rankings por produto, categoria, dia e mês.
+O repositório contém uma sequência de projetos evolutivos, todos utilizando a mesma base de dados, para evidenciar crescimento técnico e aprofundamento analítico.
 
 ---
 
-## ⚙️ O que foi feito neste projeto
+### 🧩 Projeto 01 — Exploração e Tratamento Inicial dos Dados
 
-✔ **1. Leitura da base**  
-✔ **2. Cálculo do Ticket Médio geral**  
-✔ **3. Ticket Médio por mês, dia, produto e categoria**  
-✔ **4. Margem de Lucro por mês, dia, produto e categoria**
+Foco no entendimento da base e criação de primeiros indicadores.
 
-## 🧩 Projeto 04 — Porcentagem do Lucro por Produto e Categoria
-Neste quarto projeto, aprofundei a análise financeira da base calculando a participação percentual do lucro por produto e por categoria.
-O objetivo foi identificar quais itens realmente impulsionam o lucro da loja e quais têm baixa representatividade, uma visão fundamental para decisões comerciais.
+**Atividades realizadas:**
+- Leitura da base de dados
+- Criação de colunas derivadas
+- Indicadores gerais
+- Ranking por produto e categoria
+- Conversão e tratamento de datas
+- Cálculo de lucro por mês
+- Exportação da base tratada
 
----
-
-## ⚙️ O que foi feito neste projeto
-
-✔ **1. Ranking dos produtos mais lucrativos pela porcentagem**  
-✔ **2. Ranking das categorias mais lucrativas pela porcentagem**  
+📁 Arquivo gerado: `01_projeto.csv`
 
 ---
 
-## 📁 Base utilizada em todos os 5 projetos  
-📊 **vendas_loja.csv**
+### 🧩 Projeto 02 — Análises Temporais com Datetime
+
+Aprofundamento na análise de comportamento ao longo do tempo.
+
+**Atividades realizadas:**
+- Conversão de datas para datetime
+- Criação de colunas temporais (dia, semana, mês, trimestre)
+- Análises semanais, mensais e trimestrais
+- Identificação de melhores e piores períodos
+- Consolidação dos dados tratados
+
+📁 Arquivo gerado: `02_projeto.csv`
 
 ---
+
+### 🧩 Projeto 03 — Indicadores Avançados
+
+Análises focadas em métricas de desempenho.
+
+**Atividades realizadas:**
+- Cálculo de Ticket Médio
+- Ticket Médio por período, produto e categoria
+- Cálculo de Margem de Lucro
+- Comparações entre períodos e agrupamentos
+
+---
+
+### 🧩 Projeto 04 — Participação Percentual do Lucro
+
+Análise estratégica para identificar os principais responsáveis pelo resultado.
+
+**Atividades realizadas:**
+- Ranking percentual de lucro por produto
+- Ranking percentual de lucro por categoria
+- Identificação de itens com maior e menor impacto financeiro
+
+---
+
+## 📁 Base de Dados
+
+- **vendas_loja.csv**
+
+Base utilizada em todos os projetos, com dados fictícios, criada exclusivamente para fins de estudo e demonstração técnica.
+
+---
+
+## 📌 Considerações Finais
+
+Este repositório reflete minha capacidade de:
+
+- Trabalhar com dados estruturados e tratamento de dados
+- Aplicar lógica analítica com Pandas
+- Organizar projetos de análise de forma clara e progressiva
+- Gerar resultados que podem ser utilizados em outras frentes (BI, SQL, dashboards)
+
+Os projetos aqui apresentados são parte da minha jornada de aprendizado e servem como base para integrações futuras com outras tecnologias.
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rodsonsantos/  
+- GitHub: https://github.com/rodsonsantos
+
 
